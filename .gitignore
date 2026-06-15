@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+compliance_final.db
+secure_vault/
+uploads/
+
